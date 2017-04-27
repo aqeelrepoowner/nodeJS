@@ -1,0 +1,16 @@
+{
+  "COMMON": {
+      "mySqlDbConfig": {
+        "host": "localhost",
+        "port": 3306,
+        "database": "darul_huda",
+        "user" : "root",
+        "password" : ""
+      },
+      "mongoDbConfig": "username:password@localhost/dbname",
+      "log" : {
+          "fileName" : "api-error-logs.log",
+          "logsDirectory" : "logs"
+        }     
+    }
+}

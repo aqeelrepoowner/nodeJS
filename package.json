@@ -1,0 +1,38 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Node js rest API",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/username/repositoryname.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Rest",
+    "API"
+  ],
+  "author": "Author Name)",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.14.2",
+    "config": "^1.19.0",
+    "cors": "^2.8.3",
+    "crypto": "0.0.3",
+    "express": "^4.13.4",
+    "express-validator": "^2.19.1",
+    "express-winston": "^1.2.0",
+    "mongorepository": "~1.1.1",
+    "mysql": "^2.10.2",
+    "q": "^1.4.1",
+    "repository": "^0.2.0",
+    "routes": "^2.1.0",
+    "underscore": "^1.8.3",
+    "winston": "^2.2.0"
+  }
+}
